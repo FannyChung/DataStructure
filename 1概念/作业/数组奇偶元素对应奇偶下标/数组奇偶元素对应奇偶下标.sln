@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数组奇偶元素对应奇偶下标", "数组奇偶元素对应奇偶下标\数组奇偶元素对应奇偶下标.vcxproj", "{87C321B4-ED82-48EE-A45F-C3ED82CDD503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87C321B4-ED82-48EE-A45F-C3ED82CDD503}.Debug|Win32.ActiveCfg = Debug|Win32
+		{87C321B4-ED82-48EE-A45F-C3ED82CDD503}.Debug|Win32.Build.0 = Debug|Win32
+		{87C321B4-ED82-48EE-A45F-C3ED82CDD503}.Release|Win32.ActiveCfg = Release|Win32
+		{87C321B4-ED82-48EE-A45F-C3ED82CDD503}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
